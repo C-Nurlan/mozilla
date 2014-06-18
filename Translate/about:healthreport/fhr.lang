@@ -19,7 +19,7 @@ Məlumat Paylaşma
 
 
 ;ON
-ON
+
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
@@ -51,7 +51,7 @@ time open
 
 
 ;last crash
-last crash
+son qəza
 
 
 ;bookmarks
@@ -59,11 +59,11 @@ bookmarks
 
 
 ;This Month
-This Month
+Bu Ay
 
 
 ;crashes
-crashes
+Qəzalar
 
 
 ;Add-ons
@@ -75,27 +75,24 @@ View List
 
 
 ;enabled
-enabled
+Fəaliyyətdə
 
 
 ;disabled
-disabled
-
+Fəaliyyətsiz
 
 ;Plugins
 Plugins
 
 
 ;always activate
-always activate
+həmişə fəaliyyətdə
 
 
 ;ask to activate
-ask to activate
-
+fəaliyyət üçün soruş
 
 ;never activate
-never activate
 
 
 ;Tips
@@ -123,11 +120,11 @@ View more <a href="%(details_url)s">detailed information</a>
 
 
 ;pages visited
-pages visited
+Nəzər yetirilmış səhifələr
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Your browser seems to be running slower than usual. To learn more:
+Gərünür sənin brazuzerin adətən olduğundan daha yavaş işləyir. Daha çox öyrən :
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
@@ -147,7 +144,7 @@ Average
 
 
 ;All
-All
+Hamısı
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
@@ -155,7 +152,7 @@ Startup time helps determine how well your version of Firefox is performing. In 
 
 
 ;Data Collected
-Data Collected
+Toplanmış verilənlər
 
 
 ;Glossary
